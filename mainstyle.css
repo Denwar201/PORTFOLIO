@@ -1,0 +1,18 @@
+body{
+    background-image: url("fig2.jpg");
+}
+.main1{
+    color: aqua;
+}
+.main2
+{
+    background-image: url("fig3.jpg");
+    
+}
+footer
+{
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
